@@ -16,9 +16,10 @@ Name: File Name (AzadNet JSON)
 URL: https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 
 Auto Update:
-1440 (for Android version)
-24 (for Windows version)
+1440 Minutes (for Android version) 
+& 
+24 Hours (for Windows version)
 
-Now save and select that.
+Now Save and Select that.
 
 
