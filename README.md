@@ -13,7 +13,7 @@ Group > Group URL
 Name: File Name (AzadNet/SurfShark/UFO)
 
 
-URL: https://github.com/AzadNetCH/Clash/releases/download/1.0/AzadNet.yml
+URL: https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 
 Auto Update:
 1440 (for Android version)
