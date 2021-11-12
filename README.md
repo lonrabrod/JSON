@@ -1,5 +1,5 @@
 # JSON
-Json file for all client of shadowsocks
+JSON file for ShadowSocks & SagerNet & AnXray
 
 In the [ShadowSocks application](https://github.com/shadowsocks) from:
 Menu > Subscriptions > URL
