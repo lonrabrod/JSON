@@ -1,0 +1,3737 @@
+[
+  {
+    "server": "31.171.153.163",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ALB 🇦🇱 Tirana",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "62.197.144.3",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ALG 🇩🇿 Algiers",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.206.168.43",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ARG ⃕ ␋ 🇦🇷 Buenos Aires",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.248.79.85",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUS 🇦🇺 Adelaide",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "144.48.39.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUS 🇦🇺 Brisbane",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.192.80.219",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUS 🇦🇺 Melbourn",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "124.150.139.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUS 🇦🇺 Perth",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.125.247.197",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUS 🇦🇺 Sydney",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.19.195.81",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AUT 🇦🇹 Vienna",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "62.212.239.44",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "AZR 🇦🇿 Baku",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.95.55.115",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "BEL 🇧🇪  Antwerp",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.110.115.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "BEL 🇧🇪  Brussels",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.99.3.66",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "BIH 🇧🇦 Sarajevo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.58.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "BRA 🇧🇷 São Paolo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.120.152.195",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "BLG 🇧🇬 Sofia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.19.211.117",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CAN 🇨🇦 Toronto",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.245.254.77",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CAN 🇨🇦 Montreal",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "208.78.41.202",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CAN 🇨🇦 Vancouver",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "31.169.121.24",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CHL ⃕ ␋ 🇨🇱 San Antonio",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.218.35.25",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "COL 🇨🇴 Bagotá",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.227.241.22",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "COST 🇨🇷 San Jone",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.222.34.119",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CROA 🇭🇷 Zagreb",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "195.47.194.79",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CYP 🇨🇾 Nicosia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.180.14.149",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "CZE 🇨🇿 Prague",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.29.107.211",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "DNK 🇩🇰 Copenhagen",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.174.159.68",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "EST 🇪🇪 Tallinn",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.244.191.43",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "FIN 🇫🇮 Helsinki",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.108.106.164",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "FRA 🇫🇷 Bordeaux",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.16.130",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "FRA 🇫🇷 Marseille",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "143.244.57.119",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "FRA 🇫🇷 Paris",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.85.90.181",
+    "server_port": 810,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "FRA 🇫🇷 Roubaix",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.85.90.181",
+    "server_port": 808,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "FRA 🇫🇷 Roubaix",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.85.90.181",
+    "server_port": 807,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "FRA 🇫🇷 Roubaix",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.85.90.181",
+    "server_port": 803,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "FRA 🇫🇷 Roubaix",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.239.207.232",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GEO 🇬🇪🇲 Tbilisi",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.33.65",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GER 🇩🇪 Berlin",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.33.65",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GER 🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.216.227",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GER 🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.33.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GER 🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.19.145",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GER 🇩🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "18.185.63.41",
+    "server_port": 810,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "GER 🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.104.184.78",
+    "server_port": 807,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "GER 🇩🇪 Frankfurt",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.150.167.34",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "GRC 🇬🇷 Athens",
+    "route": "all",
+    "remote_dns": "194.150.167.34",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.42.211",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "HKG 🇭🇰 Hong Kong",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.252.223.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "HUN 🇭🇺 Budapest",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.133.193.195",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ICL 🇮🇸 Reykjavík",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.120.66.214",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "IDN 🇮🇩 Jakarta",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.108.117.149",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "IND 🇮🇳 Chennai",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "129.227.219.9",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "IND 🇮🇳 Mumbai",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.39.134.61",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "IND 🇮🇳 Indore",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.252.222.117",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "IRL 🇮🇪 Dublin",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "87.239.255.109",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ISR 🇮🇱 Tel Aviv",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.219.227",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ITA 🇮🇹 Rome",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.54.155",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ITA 🇮🇹 Milan",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.58.162",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ITA 🇮🇹 Milan",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.22.132",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN 🇯🇵 Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.233",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR 🇰🇷 Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.189.202.9",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KAZ 🇰🇿 Oral",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.92.78.152",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "LTV 🇱🇻 Riga",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.153.151.167",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "LUX 🇱🇺 Luxembourg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.33.40.114",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "MDA 🇲🇩 Chișinău",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.41.112.16",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "MEX 🇲🇽 Mexico City",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.225.28.91",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "MKD 🇲🇰 Skopje",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "42.0.30.177",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "MYS 🇲🇾 Kuala Lumpur",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.219.215.21",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "NOR 🇳🇴 Oslo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "102.165.23.4",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "NGA 🇳🇬 Lagos",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.35.199",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "NLD 🇳🇱 Amsterdam",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "180.149.231.67",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "NZL 🇳🇿 Auckland",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.134.224.26",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "PHL 🇵🇭 Manila",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.55.133",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "POL 🇵🇱 Warsaw",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.187.49.148",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "POL 🇵🇱 Gdańsk",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.244.139.5",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "PNM 🇵🇦 Panama",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.205.230.152",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "PRT 🇵🇹 Lisbon",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.39.127.23",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "PRT 🇵🇹 Porto",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.218.35.3",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "PRU 🇵🇪 Lima",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.102.217.155",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "ROU 🇷🇴 Bucharest",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.38.138.150",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "RUS 🇷🇺 Moscow",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.163.217",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SNG 🇸🇬 Singapore",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "102.165.47.132",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SOAF 🇿🇦 Johannesburg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "82.102.26.237",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SPN 🇪🇸 Barcelona",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.153.150.58",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SPN 🇪🇸 Valencia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.48.13",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SPN 🇪🇸 Madrid",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "152.89.160.115",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SRB 🇷🇸 Belgrade",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.76.8.215",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SVK 🇸🇰 Bratislava",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "195.158.249.36",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SVN 🇸🇮 Ljubljana",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "195.181.166.228",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SWE 🇸🇪 Stockholm",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.62.46",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SWIT 🇨🇭 Zurich",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.40.54.2",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "THA 🇹🇭 Bangkok",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "107.150.94.13",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TUR 🇹🇷 Istanbul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.43",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TWN 🇹🇼 Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.19",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UAE 🇦🇪 Dubai",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.20",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UAE 🇦🇪 Dubai",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.38",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UAE 🇦🇪 Dubai",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.108.105.87",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Glasgow",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.44.78.172",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.10.80.6",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.238.165.226",
+    "server_port": 807,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.39.114.157",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.50.107",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "UKR 🇺🇦 Kyiv",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.206.168.26",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Atlanta",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.43.14.83",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Bend",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "173.237.207.42",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Boston",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.93.153.149",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Buffalo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "155.254.28.141",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Charlotte",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.42.141",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Chicago",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "206.217.202.96",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Dallas",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.42.143",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Detroit",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.44.72",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Denver",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "199.10.64.243",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Houston",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "198.204.230.61",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Kansas City",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.187.149",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Las Vegas",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.43.19.82",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Latham",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.9.193",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Los Angeles",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.214.244",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Miami",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.40.172",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 New York",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "66.115.182.69",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Orlando",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "199.58.187.16",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Phoenix",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.200.131.233",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Salt Lake City",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.124.240.161",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 San Francisco",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.46.50",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Seattle",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "148.72.169.211",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇺🇸 St. Louis",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "209.216.92.195",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Tempa",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.149.3.3",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "VEN 🇻🇪 Caracas",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.42.200",
+    "server_port": 40093,
+    "password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+    "method": "aes-256-gcm",
+    "remarks": "HKG+🇭🇰+Hong+Kong",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.42.197",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "HKG+🇭🇰+Hong+Kong",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.199.22.145",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN 🇯🇵 Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.161.241",
+    "server_port": 35294,
+    "password": "J9Y2ncrdPEC38gwydNFFGBna",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.161.239",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.213",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.34.25",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.88",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.83",
+    "server_port": 31944,
+    "password": "aYNeKDMzYQYw4KbUbJA8Wszq",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.105",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.161.2",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.244",
+    "server_port": 40093,
+    "password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.21",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.88",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.83",
+    "server_port": 35294,
+    "password": "J9Y2ncrdPEC38gwydNFFGBna",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.34.25",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.19",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.87.213.86",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.34.25",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "JPN+🇯🇵+Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.244",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.234",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "27.255.77.195",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.249.31.28",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.249.31.24",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.242",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "27.255.77.197",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.249.31.24",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.244",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.234",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.242",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "61.14.210.244",
+    "server_port": 40093,
+    "password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+    "method": "aes-256-gcm",
+    "remarks": "KOR+🇰🇷+Seoul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.187.163.201",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "SNG+🇸🇬+Singapore",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.56.137",
+    "server_port": 40093,
+    "password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+    "method": "aes-256-gcm",
+    "remarks": "SNG+🇸🇬+Singapore",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.155",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TWN 🇹🇼 Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.157",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TWN 🇹🇼 New Taipei",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.43",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TWN 🇹🇼 New Taipei",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.45",
+    "server_port": 38033,
+    "password": "xpQwyV4W5FdA6NMANJJx73US",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.152.151.67",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.29",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.152.151.69",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.45",
+    "server_port": 38033,
+    "password": "xpQwyV4W5FdA6NMANJJx73US",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.29",
+    "server_port": 38033,
+    "password": "xpQwyV4W5FdA6NMANJJx73US",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.45",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.3",
+    "server_port": 31944,
+    "password": "aYNeKDMzYQYw4KbUbJA8Wszq",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.27",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.5",
+    "server_port": 33992,
+    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.3",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.27",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.3",
+    "server_port": 38033,
+    "password": "xpQwyV4W5FdA6NMANJJx73US",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.43",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.242.45",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.152.151.85",
+    "server_port": 39772,
+    "password": "CUndSZnYsPKcu6Kj8THVMBHD",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.3",
+    "server_port": 35294,
+    "password": "J9Y2ncrdPEC38gwydNFFGBna",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "2.58.241.27",
+    "server_port": 38033,
+    "password": "xpQwyV4W5FdA6NMANJJx73US",
+    "method": "aes-256-gcm",
+    "remarks": "TW+🇹🇼+Taichung",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.136.80.36",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "GER 🇩🇪 Nuremberg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "161.97.131.160",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "GER 🇩🇪 Düsseldorf",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.130.129",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.130.130",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.159.246",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.159.247",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.158.181",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.174.130.129",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "USA 🇺🇲 Virginia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.169.137.214",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CYP 🇨🇾 Nicosia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "213.169.137.221",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CYP 🇨🇾 Nicosia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.10.80.6",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "UK 🇬🇧 London",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "88.208.7.204",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "NLD 🇳🇱 Amsterdam",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.174.23.218",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "ITA 🇮🇹 Milan",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "145.239.75.87",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "FRA 🇫🇷 Gravelines",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "51.77.194.83",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "FRA 🇫🇷 Strasbourg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "54.37.136.249",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "POL 🇵🇱 Wroclaw",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "54.37.139.110",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "POL 🇵🇱 Wroclaw",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.71.227.17",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CAN 🇨🇦 Montreal",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.71.227.64",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CAN 🇨🇦 Montreal",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "151.236.30.184",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "AUT 🇦🇹 Graz",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "139.59.30.221",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "IND 🇮🇳 Bengaluru",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 806,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "TUR 🇹🇷 Istanbul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.123.119.51",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "TUR 🇹🇷 Istanbul",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "31.192.104.206",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "RUS 🇷🇺 Moscow",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "83.217.9.76",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "RUS 🇷🇺 Moscow",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "149.28.186.148",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "AUS 🇦🇺 Alexandria",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.233.65.67",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SNG 🇸🇬 Singapore",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "203.23.128.94",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "HKG 🇭🇰 Central",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.114.130.92",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "JPN 🇯🇵 Tokyo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "197.189.202.25",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SOAF 🇿🇦 Cape Town",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "129.232.222.74",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SOAF 🇿🇦 Cape Town",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "209.14.0.228",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BRA 🇧🇷 Sao Paulo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.192.124.183",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BRA 🇧🇷 Sao Paulo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.255.248.40",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "LUX 🇱🇺 Luxembourg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.255.248.39",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "LUX 🇱🇺 Luxembourg",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.237.210.158",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SWIT 🇨🇭 Zurich",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.71.227.178",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BLG 🇧🇪 Flanders",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.71.249.240",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BLG 🇧🇪 Flanders",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.36.27.59",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "DNK 🇩🇰 Copenhagen",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.36.27.79",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "DNK 🇩🇰 Copenhagen",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.108.129.159",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "IRL 🇮🇪 Tallaght",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.108.129.158",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "IRL 🇮🇪 Tallaght",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.143.130.213",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SPN 🇪🇸 Madrid",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.32.22",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "NOR 🇳🇴 Oslo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.225.28",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BGR 🇧🇬 Sofia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.225.104",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BGR 🇧🇬 Sofia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.89.238.36",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "MLT 🇲🇹 Safi",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.252.5.234",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "EST 🇪🇪 Tallinn",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "202.59.10.102",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "MYS 🇲🇾 Kuala Lumpur",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "43.254.132.220",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "THA 🇹🇭 Bangkok",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.123.123.133",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SVK 🇸🇰 Bratislava",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.235.207.28",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CZE 🇨🇿 Prague",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.235.52.112",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "CHL 🇨🇱 Viña del Mar",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.113.143.189",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "PRT 🇵🇹 Lisbon",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "147.78.3.242",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "UKR 🇺🇦 Kyiv",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.143.129.185",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "FIN 🇫🇮 Helsinki",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.71.130.160",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "HUN 🇭🇺 Budapest",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.121.87.89",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "MDA 🇲🇩 Chisinau",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "192.71.244.49",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SVN 🇸🇮 Ljubljana",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.235.49.48",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "ICL 🇮🇸 Hafnarfjordur",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "131.255.4.219",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "ARG 🇦🇷 Buenos Aires",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.246.93.59",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "SWE 🇸🇪 Stockholm",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.225.104",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BGR 🇧🇬 Sofia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.225.28",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "BGR 🇧🇬 Sofia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.32.29",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "NOR 🇳🇴 Oslo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.68.32.22",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "NOR 🇳🇴 Oslo",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.98.119.180",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 1",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.219.134.52",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 2",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.219.133.176",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 3",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.219.134.182",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 4",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.98.119.156",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 5",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.219.134.161",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TUR Q 🇹🇷 Istanbul 6",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
