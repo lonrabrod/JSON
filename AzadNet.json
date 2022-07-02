@@ -9570,6 +9570,21 @@
     "udpdns": false
   },
   {
+    "server": "92.223.79.5",
+    "server_port": 2324,
+    "password": "mMd6MnslsrdP",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "IT 🇮🇹 Milan @AzadNet",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "81.90.190.81",
     "server_port": 808,
     "password": "G!yBwPWH3Vao",
@@ -20765,6 +20780,21 @@
     "password": "f8f7aCzcPKbsF8p3",
     "method": "aes-256-cfb",
     "remarks": "RS 🇷🇸 Belgrade @AzadNet",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.223.65.31",
+    "server_port": 29092,
+    "password": "ypoq8dJBPqst",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "RU 🇷🇺 St Petersburg @AzadNet",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
