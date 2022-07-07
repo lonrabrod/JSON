@@ -24195,6 +24195,21 @@
     "udpdns": false
   },
   {
+    "server": "185.219.134.52",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
+    "remarks": "TR 🇹🇷 Istanbul @AzadNet",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "141.98.119.156",
     "server_port": 50003,
     "password": "8460400130",
